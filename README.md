@@ -1,2 +1,2 @@
 # Parser
-arithmetic expression parses
+arithmetic expression parser
